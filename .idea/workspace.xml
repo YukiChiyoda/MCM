@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0acb5d4-70a3-489c-9464-09d2f5840960" name="Changes" comment="feat: Hello MCM and Bye Bye~ :)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/data/comptab_2018-01-29 16_00_comma_separated.csv" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2b7JgdLtZuDEbMnAWoRRtPfsuSv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in __init__.py.executor": "Run",
+    "Python.12600-Ks.executor": "Run",
+    "Python.12600-L.executor": "Run",
+    "Python.12600-R.executor": "Run",
+    "Python.12600-Rf.executor": "Run",
+    "Python.12600-backup.executor": "Run",
+    "Python.12600-backup1111.executor": "Run",
+    "Python.12600-l.executor": "Run",
+    "Python.12600.executor": "Run",
+    "Python.GM.executor": "Run",
+    "Python.Model3.executor": "Run",
+    "Python.T-t-fit.executor": "Run",
+    "Python.T-t-fitter.executor": "Run",
+    "Python.T-t-in-one.executor": "Run",
+    "Python.T-t-one.executor": "Run",
+    "Python.T-t.executor": "Run",
+    "Python.T-y.executor": "Run",
+    "Python.TOPSIS.executor": "Run",
+    "Python.TOPSIS2.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.atest.executor": "Run",
+    "Python.atest2.executor": "Run",
+    "Python.chicago-crime-arima-acf-pacf.executor": "Run",
+    "Python.chicago-crime-arima-aic-bic.executor": "Run",
+    "Python.chicago-crime-data-predictor-arima.executor": "Run",
+    "Python.chicago-crime-data-predictor-arima2.executor": "Run",
+    "Python.chicago-crime-data-predictor.executor": "Run",
+    "Python.chicago-crime-data-processor.executor": "Run",
+    "Python.chicago-crime-plot-arima-1.executor": "Run",
+    "Python.chicago-crime-plot-arima-yearly.executor": "Run",
+    "Python.chicago-crime-plot-arima.executor": "Run",
+    "Python.chicago-crime-plot.executor": "Run",
+    "Python.co2-emi-coef.executor": "Run",
+    "Python.co2-emi-curve-fit.executor": "Run",
+    "Python.co2-emi-curve-predict.executor": "Run",
+    "Python.create_test_data.executor": "Run",
+    "Python.curve-fit.executor": "Run",
+    "Python.dT-t-fit.executor": "Run",
+    "Python.dT-y-fit.executor": "Run",
+    "Python.diff-data.executor": "Run",
+    "Python.dsolve.executor": "Run",
+    "Python.dtest.executor": "Run",
+    "Python.dtest2.executor": "Run",
+    "Python.dtest3.executor": "Run",
+    "Python.dtest4.executor": "Run",
+    "Python.emi-data-10-diff.executor": "Run",
+    "Python.emi-data-arima-acf-pacf.executor": "Run",
+    "Python.emi-data-arima-aic-bic.executor": "Run",
+    "Python.emi-data-arima.executor": "Run",
+    "Python.emi-data-curve-fit-refactor.executor": "Run",
+    "Python.emi-data-curve-fit.executor": "Run",
+    "Python.emi-data-curve-predict.executor": "Run",
+    "Python.emi-data-mk.executor": "Run",
+    "Python.emi-data-pt.executor": "Run",
+    "Python.emi-data.executor": "Run",
+    "Python.eq.executor": "Run",
+    "Python.euler-ode.executor": "Run",
+    "Python.exp-fit.executor": "Run",
+    "Python.fake-alpha.executor": "Run",
+    "Python.fake-drawing.executor": "Run",
+    "Python.fake-r.executor": "Run",
+    "Python.fake-r2.executor": "Run",
+    "Python.fake-rmin.executor": "Run",
+    "Python.fake-sigma.executor": "Run",
+    "Python.fit.executor": "Run",
+    "Python.fit000.executor": "Run",
+    "Python.fit2.executor": "Run",
+    "Python.google-trand-plot.executor": "Run",
+    "Python.iccwc-roi-plot.executor": "Run",
+    "Python.ideal-solution-distance-1.executor": "Run",
+    "Python.ideal-solution-distance-2.executor": "Run",
+    "Python.ideal-solution-distance-3-2.executor": "Run",
+    "Python.ideal-solution-distance-3-3.executor": "Run",
+    "Python.ideal-solution-distance-3.executor": "Run",
+    "Python.ideal-solution-distance-pyecharts.executor": "Run",
+    "Python.ideal-solution-distance.executor": "Run",
+    "Python.ideal-solution-distance2.executor": "Run",
+    "Python.logistic-3d-plot.executor": "Run",
+    "Python.logistic-curve-fit.executor": "Run",
+    "Python.logistic-curve-plot-with-roi.executor": "Run",
+    "Python.logistic-curve-plot-without-roi.executor": "Run",
+    "Python.logistic-curve-plot.executor": "Run",
+    "Python.logistic-gdp-processor.executor": "Run",
+    "Python.logistic-relation-plot.executor": "Run",
+    "Python.logistic-x1-processor.executor": "Run",
+    "Python.logistic.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mk-test-2.executor": "Run",
+    "Python.mk-test.executor": "Run",
+    "Python.model.executor": "Run",
+    "Python.model1.executor": "Run",
+    "Python.model2.executor": "Run",
+    "Python.polyfit.executor": "Run",
+    "Python.ppm-deg.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.test0.executor": "Run",
+    "Python.test2.executor": "Run",
+    "Python.test3.executor": "Run",
+    "Python.unique-value-count.executor": "Run",
+    "Python.unodc.executor": "Run",
+    "Python.world-wildlife-trade-data-processor-2.executor": "Run",
+    "Python.world-wildlife-trade-data-processor.executor": "Run",
+    "Python.world-wildlife-trade-monitor.executor": "Run",
+    "Python.world-wildlife-trade-quantity-1.executor": "Run",
+    "Python.world-wildlife-trade-quantity-2.executor": "Run",
+    "Python.world-wildlife-trade-quantity.executor": "Run",
+    "Python.world-wildlife-trade.executor": "Run",
+    "Python.三维散点图.executor": "Run",
+    "Python.世界地图.executor": "Run",
+    "Python.模糊综合评价.executor": "Run",
+    "Python.模糊综合评价1.executor": "Run",
+    "Python.模糊综合评价2.executor": "Run",
+    "Python.模糊综合评价3.executor": "Run",
+    "Python.模糊综合评价4.executor": "Run",
+    "Python.灰色关联分析.executor": "Run",
+    "Python.灰色关联分析1.executor": "Run",
+    "Python.灰色关联分析2.executor": "Run",
+    "Python.灰色关联分析3.executor": "Run",
+    "Python.灰色预测.executor": "Run",
+    "Python.灰色预测GM(1,1)-2.executor": "Run",
+    "Python.灰色预测GM(1,1).executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Akitsu/PycharmProjects/MCM",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\data" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\output" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\theme" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\数据" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\data" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\模板\算法" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\draw" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM\diff" />
+      <recent name="C:\Users\Akitsu\PycharmProjects\MCM" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="echo Hello" />
+      <command value="modelC/test" />
+      <command value="./ModelC/test" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0acb5d4-70a3-489c-9464-09d2f5840960" name="Changes" comment="" />
+      <created>1705560297076</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705560297076</updated>
+      <workItem from="1705560306785" duration="4913000" />
+      <workItem from="1705565791953" duration="351000" />
+      <workItem from="1705566159249" duration="413000" />
+      <workItem from="1705566584790" duration="6834000" />
+      <workItem from="1705625545224" duration="30899000" />
+      <workItem from="1705709848908" duration="19893000" />
+      <workItem from="1705735738973" duration="4179000" />
+      <workItem from="1705739938600" duration="2283000" />
+      <workItem from="1705742238018" duration="2871000" />
+      <workItem from="1705764211668" duration="22454000" />
+      <workItem from="1705808846325" duration="3015000" />
+      <workItem from="1705812049455" duration="20402000" />
+      <workItem from="1705844295237" duration="5264000" />
+      <workItem from="1705986023622" duration="11126000" />
+      <workItem from="1706016597241" duration="2360000" />
+      <workItem from="1706059709537" duration="39828000" />
+      <workItem from="1706147845706" duration="56548000" />
+      <workItem from="1706250186808" duration="12246000" />
+      <workItem from="1706267077595" duration="80000" />
+      <workItem from="1706267167340" duration="16741000" />
+      <workItem from="1706604712355" duration="96000" />
+      <workItem from="1706605039619" duration="2491000" />
+      <workItem from="1706672447564" duration="20295000" />
+      <workItem from="1706775813710" duration="1805000" />
+      <workItem from="1706798427889" duration="5000" />
+      <workItem from="1706851804953" duration="11846000" />
+      <workItem from="1706874640608" duration="4574000" />
+      <workItem from="1706928062055" duration="22329000" />
+      <workItem from="1707006480189" duration="13058000" />
+      <workItem from="1707028419853" duration="59000" />
+      <workItem from="1707028727054" duration="33562000" />
+      <workItem from="1707076679930" duration="2727000" />
+      <workItem from="1707097789265" duration="5304000" />
+      <workItem from="1707116076389" duration="5414000" />
+      <workItem from="1707136480801" duration="224000" />
+      <workItem from="1707136755050" duration="2306000" />
+      <workItem from="1707145706395" duration="2483000" />
+      <workItem from="1707150437815" duration="168000" />
+      <workItem from="1707153621825" duration="804000" />
+      <workItem from="1707159302115" duration="1499000" />
+    </task>
+    <task id="LOCAL-00001" summary="feat: Hello MCM and Bye Bye~ :)">
+      <option name="closed" value="true" />
+      <created>1707161635916</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707161635916</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: Hello MCM and Bye Bye~ :)">
+      <option name="closed" value="true" />
+      <created>1707161674533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707161674533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat: Hello MCM and Bye Bye~ :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Hello MCM and Bye Bye~ :)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/demo/curve-fit.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="data.columns" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MCM$fit2.coverage" NAME="fit2 Coverage Results" MODIFIED="1706236980798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$12600_Rf.coverage" NAME="12600-Rf Coverage Results" MODIFIED="1705845127173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$iccwc_roi_plot.coverage" NAME="iccwc-roi-plot Coverage Results" MODIFIED="1707048316463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$dT_t_fit.coverage" NAME="dT-t-fit Coverage Results" MODIFIED="1706272997958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_arima.coverage" NAME="emi-data-arima Coverage Results" MODIFIED="1706172163509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$12600.coverage" NAME="12600 Coverage Results" MODIFIED="1705822512312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_quantity_1.coverage" NAME="world-wildlife-trade-quantity-1 Coverage Results" MODIFIED="1707153800167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$google_trand_plot.coverage" NAME="google-trand-plot Coverage Results" MODIFIED="1706962271268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$GM.coverage" NAME="GM Coverage Results" MODIFIED="1706872641924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/算法" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance2.coverage" NAME="ideal-solution-distance2 Coverage Results" MODIFIED="1707034954043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_curve_plot_without_roi.coverage" NAME="logistic-curve-plot-without-roi Coverage Results" MODIFIED="1707119373899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$co2_emi_curve_predict.coverage" NAME="co2-emi-curve-predict Coverage Results" MODIFIED="1706256515041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$12600_R.coverage" NAME="12600-R Coverage Results" MODIFIED="1705812050237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$T_t_one.coverage" NAME="T-t-one Coverage Results" MODIFIED="1706287355138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/MCM$atest.coverage" NAME="atest Coverage Results" MODIFIED="1706232672313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_plot.coverage" NAME="chicago-crime-plot Coverage Results" MODIFIED="1706968577712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$12600_L.coverage" NAME="12600-L Coverage Results" MODIFIED="1705844963786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade.coverage" NAME="world-wildlife-trade Coverage Results" MODIFIED="1706928603097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$fake_r.coverage" NAME="fake-r Coverage Results" MODIFIED="1705809671337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$fit.coverage" NAME="fit Coverage Results" MODIFIED="1706247041055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$T_t_fitter.coverage" NAME="T-t-fitter Coverage Results" MODIFIED="1706272504538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_data_predictor_arima2.coverage" NAME="chicago-crime-data-predictor-arima2 Coverage Results" MODIFIED="1706967438582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_plot_arima_1.coverage" NAME="chicago-crime-plot-arima-1 Coverage Results" MODIFIED="1707017308074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$eq.coverage" NAME="eq Coverage Results" MODIFIED="1706257753928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_curve_plot.coverage" NAME="logistic-curve-plot Coverage Results" MODIFIED="1707117792843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$logistic.coverage" NAME="logistic Coverage Results" MODIFIED="1705658352932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/参考模板" />
+    <SUITE FILE_PATH="coverage/MCM$curve_fit.coverage" NAME="curve-fit Coverage Results" MODIFIED="1706232234314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_2.coverage" NAME="ideal-solution-distance-2 Coverage Results" MODIFIED="1707070219097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_mk.coverage" NAME="emi-data-mk Coverage Results" MODIFIED="1706176597739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$polyfit.coverage" NAME="polyfit Coverage Results" MODIFIED="1705850144050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC/polyfit" />
+    <SUITE FILE_PATH="coverage/MCM$exp_fit.coverage" NAME="exp-fit Coverage Results" MODIFIED="1706082989464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$atest2.coverage" NAME="atest2 Coverage Results" MODIFIED="1706232790830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$fake_alpha.coverage" NAME="fake-alpha Coverage Results" MODIFIED="1705809559900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$dtest3.coverage" NAME="dtest3 Coverage Results" MODIFIED="1706203327632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$12600_backup.coverage" NAME="12600-backup Coverage Results" MODIFIED="1705821645812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_monitor.coverage" NAME="world-wildlife-trade-monitor Coverage Results" MODIFIED="1707049575545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$1.coverage" NAME="模糊综合评价1 Coverage Results" MODIFIED="1706754051267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板" />
+    <SUITE FILE_PATH="coverage/MCM$dtest.coverage" NAME="dtest Coverage Results" MODIFIED="1706202073021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_arima_aic_bic.coverage" NAME="chicago-crime-arima-aic-bic Coverage Results" MODIFIED="1707070356867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_3_3.coverage" NAME="ideal-solution-distance-3-3 Coverage Results" MODIFIED="1707122495933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_arima_aic_bic.coverage" NAME="emi-data-arima-aic-bic Coverage Results" MODIFIED="1706256926790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data.coverage" NAME="emi-data Coverage Results" MODIFIED="1706086217898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$4.coverage" NAME="模糊综合评价4 Coverage Results" MODIFIED="1706753260821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_pyecharts.coverage" NAME="ideal-solution-distance-pyecharts Coverage Results" MODIFIED="1707028754207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$test.coverage" NAME="test Coverage Results" MODIFIED="1706771400505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_data_processor.coverage" NAME="chicago-crime-data-processor Coverage Results" MODIFIED="1707015789366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_3d_plot.coverage" NAME="logistic-3d-plot Coverage Results" MODIFIED="1707102609732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1706018338005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/MCM$model.coverage" NAME="model Coverage Results" MODIFIED="1705717892729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_quantity.coverage" NAME="world-wildlife-trade-quantity Coverage Results" MODIFIED="1707049877686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$TOPSIS2.coverage" NAME="TOPSIS2 Coverage Results" MODIFIED="1706758040144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板/算法" />
+    <SUITE FILE_PATH="coverage/MCM$diff_data.coverage" NAME="diff-data Coverage Results" MODIFIED="1706084538580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$TOPSIS.coverage" NAME="TOPSIS Coverage Results" MODIFIED="1706757530504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板/算法" />
+    <SUITE FILE_PATH="coverage/MCM$12600_backup1111.coverage" NAME="12600-backup1111 Coverage Results" MODIFIED="1705821458383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_arima_acf_pacf.coverage" NAME="chicago-crime-arima-acf-pacf Coverage Results" MODIFIED="1706970162926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$model2.coverage" NAME="model2 Coverage Results" MODIFIED="1705677507430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$co2_emi_curve_fit.coverage" NAME="co2-emi-curve-fit Coverage Results" MODIFIED="1706256343179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$T_y.coverage" NAME="T-y Coverage Results" MODIFIED="1706288395030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/MCM$model1.coverage" NAME="model1 Coverage Results" MODIFIED="1705682332630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1706198481926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$Model3.coverage" NAME="Model3 Coverage Results" MODIFIED="1705822413990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$GM_1_1__2.coverage" NAME="灰色预测GM(1,1)-2 Coverage Results" MODIFIED="1706872399972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/算法" />
+    <SUITE FILE_PATH="coverage/MCM$fake_r2.coverage" NAME="fake-r2 Coverage Results" MODIFIED="1705808262240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$ppm_deg.coverage" NAME="ppm-deg Coverage Results" MODIFIED="1706061125092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/MCM$create_test_data.coverage" NAME="create_test_data Coverage Results" MODIFIED="1705577654375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/生图测试" />
+    <SUITE FILE_PATH="coverage/MCM$2.coverage" NAME="模糊综合评价2 Coverage Results" MODIFIED="1706754069294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板" />
+    <SUITE FILE_PATH="coverage/MCM$T_t_in_one.coverage" NAME="T-t-in-one Coverage Results" MODIFIED="1706288248515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_arima_acf_pacf.coverage" NAME="emi-data-arima-acf-pacf Coverage Results" MODIFIED="1706111867263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_3.coverage" NAME="ideal-solution-distance-3 Coverage Results" MODIFIED="1707070228397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_10_diff.coverage" NAME="emi-data-10-diff Coverage Results" MODIFIED="1706267184344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_data_processor_2.coverage" NAME="world-wildlife-trade-data-processor-2 Coverage Results" MODIFIED="1707078053332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$dtest4.coverage" NAME="dtest4 Coverage Results" MODIFIED="1706203966488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$12600_l.coverage" NAME="12600-l Coverage Results" MODIFIED="1705742972697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$mk_test.coverage" NAME="mk-test Coverage Results" MODIFIED="1706174798269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_curve_fit_refactor.coverage" NAME="emi-data-curve-fit-refactor Coverage Results" MODIFIED="1706290502031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_curve_fit.coverage" NAME="emi-data-curve-fit Coverage Results" MODIFIED="1706290320739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$dsolve.coverage" NAME="dsolve Coverage Results" MODIFIED="1705798823106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/参考模板" />
+    <SUITE FILE_PATH="coverage/MCM$fake_drawing.coverage" NAME="fake-drawing Coverage Results" MODIFIED="1705806202751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_data_predictor_arima.coverage" NAME="chicago-crime-data-predictor-arima Coverage Results" MODIFIED="1707102421665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1706197965197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$mk_test_2.coverage" NAME="mk-test-2 Coverage Results" MODIFIED="1706175276938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_gdp_processor.coverage" NAME="logistic-gdp-processor Coverage Results" MODIFIED="1707062089543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance.coverage" NAME="ideal-solution-distance Coverage Results" MODIFIED="1707035182568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$3.coverage" NAME="模糊综合评价3 Coverage Results" MODIFIED="1706753904756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板" />
+    <SUITE FILE_PATH="coverage/MCM$.coverage" NAME="三维散点图 Coverage Results" MODIFIED="1707031437949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo/绘图" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_curve_plot_with_roi.coverage" NAME="logistic-curve-plot-with-roi Coverage Results" MODIFIED="1707118391240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$co2_emi_coef.coverage" NAME="co2-emi-coef Coverage Results" MODIFIED="1706256332004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$fit000.coverage" NAME="fit000 Coverage Results" MODIFIED="1706249632542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$unodc.coverage" NAME="unodc Coverage Results" MODIFIED="1706959349419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/theme" />
+    <SUITE FILE_PATH="coverage/MCM$GM_1_1_.coverage" NAME="灰色预测GM(1,1) Coverage Results" MODIFIED="1706851815938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/模板/算法" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_quantity_2.coverage" NAME="world-wildlife-trade-quantity-2 Coverage Results" MODIFIED="1707153822226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_pt.coverage" NAME="emi-data-pt Coverage Results" MODIFIED="1706175982394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$euler_ode.coverage" NAME="euler-ode Coverage Results" MODIFIED="1706231995720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_relation_plot.coverage" NAME="logistic-relation-plot Coverage Results" MODIFIED="1707102531783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_curve_fit.coverage" NAME="logistic-curve-fit Coverage Results" MODIFIED="1707068516521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$world_wildlife_trade_data_processor.coverage" NAME="world-wildlife-trade-data-processor Coverage Results" MODIFIED="1707077517902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$fake_rmin.coverage" NAME="fake-rmin Coverage Results" MODIFIED="1705809019053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$dT_y_fit.coverage" NAME="dT-y-fit Coverage Results" MODIFIED="1706272995572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_plot_arima_yearly.coverage" NAME="chicago-crime-plot-arima-yearly Coverage Results" MODIFIED="1707147839173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$fake_sigma.coverage" NAME="fake-sigma Coverage Results" MODIFIED="1705809319375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelC" />
+    <SUITE FILE_PATH="coverage/MCM$main.coverage" NAME="main Coverage Results" MODIFIED="1706196289030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$dtest2.coverage" NAME="dtest2 Coverage Results" MODIFIED="1706202129640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$T_t.coverage" NAME="T-t Coverage Results" MODIFIED="1706287430750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/draw" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_3_2.coverage" NAME="ideal-solution-distance-3-2 Coverage Results" MODIFIED="1707159317965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$12600_Ks.coverage" NAME="12600-Ks Coverage Results" MODIFIED="1705805169962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ModelA" />
+    <SUITE FILE_PATH="coverage/MCM$logistic_x1_processor.coverage" NAME="logistic-x1-processor Coverage Results" MODIFIED="1707061627059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$emi_data_curve_predict.coverage" NAME="emi-data-curve-predict Coverage Results" MODIFIED="1706290313332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$test0.coverage" NAME="test0 Coverage Results" MODIFIED="1706199877294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diff" />
+    <SUITE FILE_PATH="coverage/MCM$T_t_fit.coverage" NAME="T-t-fit Coverage Results" MODIFIED="1706268879507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$unique_value_count.coverage" NAME="unique-value-count Coverage Results" MODIFIED="1707058560408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$ideal_solution_distance_1.coverage" NAME="ideal-solution-distance-1 Coverage Results" MODIFIED="1707070216462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_plot_arima.coverage" NAME="chicago-crime-plot-arima Coverage Results" MODIFIED="1707043553152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/MCM$chicago_crime_data_predictor.coverage" NAME="chicago-crime-data-predictor Coverage Results" MODIFIED="1706965418736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
